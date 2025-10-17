@@ -14,6 +14,15 @@ all_labels.tsv
 datasets/train/
 datasets/val/
 
+
+demo/venv/
+demo/__pycache__/
+demo/*.pyc
+demo/*.pyo
+demo/*.pyd
+demo/*.db
+demo/*.sqlite
+
 # Claude Flow generated files
 .claude/settings.local.json
 .mcp.json
